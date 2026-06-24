@@ -126,10 +126,13 @@ School management platform to handle students, teachers, courses and grade repor
   <tr>
     <td width="50%" valign="top">
 
-### 🌐 Cisco IOS Config Generator
-Tool that auto-generates Cisco IOS configurations for multi-LAN networks with /30 links and OSPF routing.
+### 🧏 Spanish → Colombian Sign Language Translator (LSC)
+Web app that translates Spanish text into Colombian Sign Language (LSC), rendering each word as a sequence of animated sign GIFs — like Google Translate, but for sign language. Uses NLP to lemmatize words and falls back to finger-spelling for unknown ones.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
    </td>
    <td width="50%" valign="top">
