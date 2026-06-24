@@ -2,7 +2,7 @@
      ║  GitHub Profile README — Brayan Cortés Leytón (@brayan3210)       ║
      ║  Estilo: moderno / profesional (capsule-render + devicon a color  ║
      ║  + tarjetas de stats + trofeos + grafo de actividad + snake).     ║
-     ║  Personaliza buscando los comentarios marcados con  <!-- EDITAR --> ║
+     ║  Personaliza buscando los comentarios marcados con la palabra EDITAR ║
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ════════════════════════════ BANNER ════════════════════════════ -->
